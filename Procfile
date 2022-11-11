@@ -1,1 +1,1 @@
-worker : python internet bot.py
+worker : internet bot.py
