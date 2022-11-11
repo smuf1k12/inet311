@@ -1,0 +1,1 @@
+worker: internet bot.py
